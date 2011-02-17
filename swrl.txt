@@ -96,4 +96,5 @@ pics.dmm.co.jp/
 .typepad.com/
 
 [regexp]
+github
 #END
