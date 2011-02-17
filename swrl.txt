@@ -68,6 +68,7 @@ groups.google.com
 .newsforums.bbc.co.uk/
 .bbcchinese.com/
 *://sites.google.com/
+*://.t66y.com/*
 .xys.org/
 .xysblogs.org/
 *://picasaweb.google.com/*
