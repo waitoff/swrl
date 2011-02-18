@@ -73,6 +73,7 @@ groups.google.com
 .xysblogs.org/
 *://picasaweb.google.com/*
 *://en.wikipedia.org/*
+*://zh.wikipedia.org/*
 .izaobao.us/
 .zuola.com/
 .thepiratebay.org/
