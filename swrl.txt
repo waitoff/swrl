@@ -35,6 +35,9 @@ feeds.feedburner.com/
 .meirixiaochao.com/
 *://goo.gl/fb/
 *://*.google.com/*
+*://*.tokyo-hot.com/*
+*://*.18p2p.com/*
+*://*.sexinsex.net/*
 *://bit.ly/
 *://j.mp/
 .t66y.com/
