@@ -34,6 +34,7 @@ feeds.feedburner.com/
 .imagehyper.com/
 .meirixiaochao.com/
 *://goo.gl/fb/
+*://*.google.com/*
 *://bit.ly/
 *://j.mp/
 .t66y.com/
