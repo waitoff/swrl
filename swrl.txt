@@ -78,6 +78,11 @@ groups.google.com
 *://picasaweb.google.com/*
 *://en.wikipedia.org/*
 *://zh.wikipedia.org/*
+*://.pornhub.com/*
+*://.fc2.com/*
+*://.redtube.com/*
+*://.dongtaiwang.com/*
+
 .izaobao.us/
 .zuola.com/
 .thepiratebay.org/
