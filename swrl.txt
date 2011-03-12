@@ -76,8 +76,7 @@ https://code.google.com/*
 *://*.xys.org/*
 *://*.xysblogs.org/*
 *://picasaweb.google.com/*
-*://en.wikipedia.org/*
-*://zh.wikipedia.org/*
+*://*.wikipedia.org/*
 *://*.pornhub.com/*
 *://*.fc2.com/*
 *://*.redtube.com/*
