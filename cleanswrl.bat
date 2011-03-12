@@ -6,3 +6,6 @@ if exist %FL% (
         ) else (
             echo 文件不存在无需删除
             )
+
+echo 按任意键关闭窗口
+PAUSE >NUL
