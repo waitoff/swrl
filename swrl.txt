@@ -79,6 +79,7 @@ https://code.google.com/*
 *://*.wikipedia.org/*
 *://*.pornhub.com/*
 *://*.libav.org/*
+*://*.varnish-cache.org/*
 *://*.fc2.com/*
 *://*.redtube.com/*
 *://*.dongtaiwang.com/*
