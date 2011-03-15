@@ -78,6 +78,7 @@ https://code.google.com/*
 *://picasaweb.google.com/*
 *://*.wikipedia.org/*
 *://*.pornhub.com/*
+*://*.libav.org/*
 *://*.fc2.com/*
 *://*.redtube.com/*
 *://*.dongtaiwang.com/*
