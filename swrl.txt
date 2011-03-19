@@ -106,6 +106,7 @@ https://code.google.com/*
 *://*.multiupload.com/*
 *://*.typepad.com/*
 *://*.internetfreedom.org/*
+*://*.1984bbs.org/*
 [regexp]
 github
 google
