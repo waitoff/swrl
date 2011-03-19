@@ -107,6 +107,8 @@ https://code.google.com/*
 *://*.typepad.com/*
 *://*.internetfreedom.org/*
 *://*.1984bbs.org/*
+*://*.kenengba.com/*
+*://*.chinagfw.org/*
 [regexp]
 github
 google
