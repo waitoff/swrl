@@ -68,8 +68,7 @@ https://code.google.com/*
 *://*.page2rss.com/*
 *://*.voachineseblog.com/*
 *://*.voanews.com/chinese/*
-*://*.bbc.co.uk/chinese/*
-*://*.bbc.co.uk/zhongwen/*
+*://*.bbc.co.uk/*
 *://*.newsforums.bbc.co.uk/*
 *://*.bbcchinese.com/*
 *://sites.google.com/*
