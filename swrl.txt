@@ -16,6 +16,7 @@ https://code.google.com/*
 *://*.twitter.com/*
 *://*.facebook.com/*
 *://*.fbcdn.net/*
+*://*.gstatic.com/*
 *://*.blogspot.com/*
 *://*.youtube.com/*
 *://*.ytimg.com/*
