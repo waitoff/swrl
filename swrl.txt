@@ -1,6 +1,7 @@
 #BEGIN
 [wildcard]
 *://*.dnspython.org/*
+*://*.appspot.com/*
 *://*.mixero.com/*
 *://*.imageporter.com/*
 *://*.oioioioi.info/*
