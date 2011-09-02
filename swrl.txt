@@ -108,6 +108,8 @@
 *://*.1984bbs.org/*
 *://*.kenengba.com/*
 *://*.chinagfw.org/*
+*://*.appspot.com/*
+*://*.dongtaiwang.com/*
 [regexp]
 github
 google
