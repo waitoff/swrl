@@ -110,6 +110,7 @@
 *://*.chinagfw.org/*
 *://*.internetfreedom.org/*
 *://*.dongtaiwang.com/*
+*://*.madteam.co/*
 [regexp]
 github
 google
