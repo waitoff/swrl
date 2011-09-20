@@ -110,6 +110,7 @@ https://code.google.com/*
 *://*.1984bbs.org/*
 *://*.kenengba.com/*
 *://*.chinagfw.org/*
+*://*.internetfreedom.org/*
 [regexp]
 github
 google
