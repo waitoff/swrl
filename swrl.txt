@@ -113,6 +113,7 @@
 *://*.madteam.co/*
 *://*.kanzhongguo.com/*
 *://*.ntdtv.com/*
+*://*.aboluowang.com/*
 [regexp]
 github
 google
