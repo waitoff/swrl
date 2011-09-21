@@ -111,6 +111,8 @@
 *://*.internetfreedom.org/*
 *://*.dongtaiwang.com/*
 *://*.madteam.co/*
+*://*.kanzhongguo.com/*
+*://*.ntdtv.com/*
 [regexp]
 github
 google
