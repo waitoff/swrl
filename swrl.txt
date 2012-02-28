@@ -11,6 +11,7 @@
 *://*.chromium.org/*
 *://*.msfn.org/*
 *://*.sns.ly/*
+*://*.lastpass.com/*
 *://*.rmdown.com/*
 *://*.pinyuan001.com/*
 *://*.twitter.com/*
