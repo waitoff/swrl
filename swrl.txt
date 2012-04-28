@@ -115,6 +115,9 @@
 *://*.kanzhongguo.com/*
 *://*.ntdtv.com/*
 *://*.aboluowang.com/*
+*://*.akamaihd.net/*
+*://*.amazon.com/*
+*://*.cloudfront.net/*
 [regexp]
 github
 google
