@@ -118,6 +118,7 @@
 *://*.akamaihd.net/*
 *://*.amazon.com/*
 *://*.cloudfront.net/*
+*://*.amazonaws.com/*
 [regexp]
 github
 google
