@@ -119,6 +119,7 @@
 *://*.amazon.com/*
 *://*.cloudfront.net/*
 *://*.amazonaws.com/*
+*://*.git-scm.com/*
 [regexp]
 github
 google
