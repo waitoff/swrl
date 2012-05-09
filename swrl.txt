@@ -122,6 +122,8 @@
 *://*.git-scm.com/*
 *://*.redhat.com/*
 *://*.bitbucket.org/*
+*://bitbucket.org/*
+
 [regexp]
 github
 google
