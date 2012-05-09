@@ -123,6 +123,8 @@
 *://*.redhat.com/*
 *://*.bitbucket.org/*
 *://bitbucket.org/*
+*://*.quora.com/*
+
 
 [regexp]
 github
