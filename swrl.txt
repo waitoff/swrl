@@ -125,6 +125,8 @@
 *://bitbucket.org/*
 *://*.quora.com/*
 *://progit.org/*
+*://*.wbur.org/*
+*://wbur.org/*
 
 [regexp]
 github
