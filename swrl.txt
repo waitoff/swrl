@@ -127,7 +127,8 @@
 *://progit.org/*
 *://*.wbur.org/*
 *://wbur.org/*
-
+*://*.ign.com/*
+*://ign.com/*
 [regexp]
 github
 google
