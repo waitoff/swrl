@@ -129,6 +129,8 @@
 *://wbur.org/*
 *://*.ign.com/*
 *://ign.com/*
+*://evernote.com/*
+*://*.evernote.com/*
 [regexp]
 github
 google
