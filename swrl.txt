@@ -131,6 +131,10 @@
 *://ign.com/*
 *://evernote.com/*
 *://*.evernote.com/*
+*://*.thefacebook.com/*
+*://thepiratebay.se/*
+*://*.instagram.com/*
+*://*.quickweb.co.nz/*
 [regexp]
 github
 google
