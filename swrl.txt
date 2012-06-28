@@ -138,4 +138,5 @@
 [regexp]
 github
 google
+blogspot
 #END
