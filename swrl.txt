@@ -138,5 +138,6 @@
 [regexp]
 github
 google
+voa
 blogspot
 #END
