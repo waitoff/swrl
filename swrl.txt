@@ -10,6 +10,7 @@
 *://*.gomuse.com/*
 *://*.chromium.org/*
 *://*.sytes.net/*
+*://*.googleapis.com/*
 *://*.msfn.org/*
 *://*.sns.ly/*
 *://*.lastpass.com/*
