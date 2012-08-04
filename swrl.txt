@@ -9,6 +9,7 @@
 *://*.nltk.org/*
 *://*.gomuse.com/*
 *://*.chromium.org/*
+*://*.sytes.net/*
 *://*.msfn.org/*
 *://*.sns.ly/*
 *://*.lastpass.com/*
