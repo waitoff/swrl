@@ -139,6 +139,8 @@
 *://*.quickweb.co.nz/*
 *://*.wretch.cc/*
 *://*.yimg.com/*
+*://*.alexa.com/*
+*://*.jkforum.net/*
 [regexp]
 github
 google
