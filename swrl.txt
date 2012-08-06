@@ -137,6 +137,8 @@
 *://thepiratebay.se/*
 *://*.instagram.com/*
 *://*.quickweb.co.nz/*
+*://*.wretch.cc/*
+*://*.yimg.com/*
 [regexp]
 github
 google
