@@ -88,6 +88,8 @@
 *://*.thepiratebay.org/*
 *://*.googlecode.com/*
 *://*.posterous.com/*
+*://*.sf.net/*
+*://*.sourceforge.net/*
 *://*.twimg.com/*
 *://*.edgecastcdn.net
 *://*.google-analytics.com
