@@ -145,7 +145,5 @@
 *://*.jkforum.net/*
 [regexp]
 github
-google
 voa
-blogspot
 #END
