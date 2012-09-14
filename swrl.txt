@@ -143,6 +143,10 @@
 *://*.yimg.com/*
 *://*.alexa.com/*
 *://*.jkforum.net/*
+*://*.wlxrs.com/*
+*://*.msecnd.net/*
+*://*.live.com/*
+
 [regexp]
 github
 voa
