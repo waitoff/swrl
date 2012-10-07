@@ -6,6 +6,8 @@
 *://*.imageporter.com/*
 *://*.oioioioi.info/*
 *://*.ff.im/*
+*://*.wsimg.com/*
+*://*.godaddy.com/*
 *://*.nltk.org/*
 *://*.gomuse.com/*
 *://*.chromium.org/*
