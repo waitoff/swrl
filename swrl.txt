@@ -12,11 +12,13 @@
 *://*.nltk.org/*
 *://*.gomuse.com/*
 *://*.chromium.org/*
+*://*.canoncial.com/*
 *://*.sytes.net/*
 *://*.googleapis.com/*
 *://*.msfn.org/*
 *://*.sns.ly/*
 *://*.lastpass.com/*
+*://*.launchpadlibrarian.net/*
 *://*.rmdown.com/*
 *://*.pinyuan001.com/*
 *://*.twitter.com/*
@@ -149,8 +151,8 @@
 *://*.wlxrs.com/*
 *://*.msecnd.net/*
 *://*.live.com/*
-
 [regexp]
+google
 github
 voa
 #END
