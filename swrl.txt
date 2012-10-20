@@ -152,5 +152,6 @@
 *://*.msecnd.net/*
 *://*.live.com/*
 *://*.github.com/*
+*://github.com/*
 [regexp]
 #END
