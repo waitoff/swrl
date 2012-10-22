@@ -83,6 +83,7 @@ http://*.epochtimes.com/*
 *://evernote.com/*
 *://*.evernote.com/*
 *://*.thefacebook.com/*
+*://*.opera.com/*
 *://thepiratebay.se/*
 *://*.instagram.com/*
 *://*.quickweb.co.nz/*
