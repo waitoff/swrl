@@ -58,6 +58,7 @@
 *://*.chinagfw.org/*
 *://*.internetfreedom.org/*
 *://*.dongtaiwang.com/*
+http://*.epochtimes.com/*
 *://*.madteam.co/*
 *://*.kanzhongguo.com/*
 *://*.ntdtv.com/*
