@@ -68,6 +68,7 @@ http://*.epochtimes.com/*
 *://*.aboluowang.com/*
 *://*.akamaihd.net/*
 *://*.akamai.*/*
+*://*.abmr.*/*
 *://*.amazon.com/*
 *://*.cloudfront.net/*
 *://*.amazonaws.com/*
