@@ -50,6 +50,7 @@
 *://*.yfrog.com/*
 *://*.mirrorbooks.com/*
 *://*.chinadigitaltimes.net/*
+*://*.sexinsex.net/*
 *://*.multiupload.com/*
 *://*.typepad.com/*
 *://*.internetfreedom.org/*
@@ -60,7 +61,9 @@
 *://*.dongtaiwang.com/*
 http://*.epochtimes.com/*
 *://*.madteam.co/*
+*://*.android.com/*
 *://*.kanzhongguo.com/*
+*://*.t66y.com/*
 *://*.ntdtv.com/*
 *://*.aboluowang.com/*
 *://*.akamaihd.net/*
