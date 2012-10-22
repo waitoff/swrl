@@ -67,6 +67,7 @@ http://*.epochtimes.com/*
 *://*.ntdtv.com/*
 *://*.aboluowang.com/*
 *://*.akamaihd.net/*
+*://*.akamai.*/*
 *://*.amazon.com/*
 *://*.cloudfront.net/*
 *://*.amazonaws.com/*
