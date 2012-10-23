@@ -75,6 +75,8 @@ http://*.epochtimes.com/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
 *://*.bitbucket.org/*
+*://bit.ly/*
+*://t.co/*
 *://bitbucket.org/*
 *://*.quora.com/*
 *://progit.org/*
