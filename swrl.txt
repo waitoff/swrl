@@ -77,6 +77,13 @@ http://*.epochtimes.com/*
 *://*.bitbucket.org/*
 *://bit.ly/*
 *://t.co/*
+*://*.bbc.co.uk/*
+*://*.voachinese.com/*
+*://*.nytimes.com/*
+*://*.reuters.com/*
+*://*.wsj.com/*
+*://*.ftchinese.com/*
+*://*.bwchinese.com/*
 *://bitbucket.org/*
 *://*.quora.com/*
 *://progit.org/*
