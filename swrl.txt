@@ -15,6 +15,7 @@
 *://*.canoncial.com/*
 *://*.sytes.net/*
 *://*.googleapis.*/*
+*://*.google-analytics.*/*
 *://*.msfn.org/*
 *://*.sns.ly/*
 *://*.lastpass.com/*
