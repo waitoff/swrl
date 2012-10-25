@@ -72,6 +72,7 @@ http://*.epochtimes.com/*
 *://*.amazon.com/*
 *://*.cloudfront.net/*
 *://*.amazonaws.com/*
+*://*.blogger.*/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
 *://*.bitbucket.org/*
