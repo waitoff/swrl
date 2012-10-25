@@ -17,6 +17,8 @@
 *://*.googleapis.*/*
 *://*.google-analytics.*/*
 *://*.msfn.org/*
+*://*.openvpn.*/*
+*://openvpn.*/*
 *://*.sns.ly/*
 *://*.lastpass.com/*
 *://*.launchpadlibrarian.net/*
