@@ -75,6 +75,7 @@ http://*.epochtimes.com/*
 *://*.blogger.*/*
 *://youtu.be/*
 *://*.debian.*/*
+*://*.1e100.*/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
 *://*.bitbucket.org/*
