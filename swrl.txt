@@ -1,6 +1,7 @@
 #BEGIN
 [wildcard]
 *://*.appspot.*/*
+*://*.secretchina.com/*
 *://*.dnspython.org/*
 *://*.launchpad.net/*
 *://*.mixero.com/*
