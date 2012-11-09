@@ -41,6 +41,7 @@
 *://*.picturedip.com/*
 *://*.flare.me/*
 *://*.google.*/*
+*://*.google.com.*/*
 *://*.googleusercontent.*/*
 *://*.rfi.fr/*
 *://*.biologymad.com/*
