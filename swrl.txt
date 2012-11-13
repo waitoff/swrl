@@ -2,6 +2,7 @@
 [wildcard]
 *://*.appspot.*/*
 *://**stackoverflow.com/*
+*://**adzerk.net/*
 *://*.secretchina.com/*
 *://*.dnspython.org/*
 *://*.launchpad.net/*
