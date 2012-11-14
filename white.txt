@@ -9,5 +9,6 @@
 *://**weibo.**/*
 *://**sinajs.**/*
 *://**sinaimg.**/*
+*://**bdstatic.**/*
 [regexp]
 #END
