@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://**alimama.**/*
 *://**netroby.**/*
 *://*.deyi.**/*
 *://**baidu.**/*
