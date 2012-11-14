@@ -42,8 +42,7 @@
 *://*.tinypic.com/*
 *://*.picturedip.com/*
 *://*.flare.me/*
-*://*.google.*/*
-*://*.google.com.*/*
+*://**google.**/*
 *://*.googleusercontent.*/*
 *://*.rfi.fr/*
 *://*.biologymad.com/*
@@ -119,8 +118,7 @@ http://*.epochtimes.com/*
 *://*.pornhub.com/*
 *://*.redtube.com/*
 *://*.phncdn.com/*
-*://*github.com/*
-*://github.com/*
+*://**github.**/*
 *://*.wikipedia.*/*
 *://*.wikimedia.*/*
 [regexp]
