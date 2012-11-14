@@ -7,5 +7,7 @@
 *://**sina.**/*
 *://**sohu.**/*
 *://**weibo.**/*
+*://**sinajs.**/*
+*://**sinaimg.**/*
 [regexp]
 #END
