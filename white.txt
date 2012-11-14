@@ -1,8 +1,10 @@
 #BEGIN
 [wildcard]
-*://*.deyi.*/*
-*://**baidu.*/*
-*://**taobao.*/*
+*://*.deyi.**/*
+*://**baidu.**/*
+*://**bdimg.**/*
+*://**taobao.**/*
+*://**tmall.**/*
 *://**tbcdn.*/*
 *://**sina.**/*
 *://**sohu.**/*
