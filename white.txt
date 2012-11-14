@@ -1,0 +1,11 @@
+#BEGIN
+[wildcard]
+*://*.deyi.*/*
+*://**baidu.*/*
+*://**taobao.*/*
+*://**tbcdn.*/*
+*://**sina.**/*
+*://**sohu.**/*
+*://**weibo.**/*
+[regexp]
+#END
