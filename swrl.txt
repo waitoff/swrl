@@ -1,8 +1,8 @@
 #BEGIN
 [wildcard]
 *://*.appspot.*/*
-*://**stackoverflow.com/*
-*://**adzerk.net/*
+*://*.stackoverflow.*/*
+*://*.adzerk.net/*
 *://*.secretchina.com/*
 *://*.dnspython.org/*
 *://*.launchpad.net/*
@@ -42,7 +42,7 @@
 *://*.tinypic.com/*
 *://*.picturedip.com/*
 *://*.flare.me/*
-*://**google.**/*
+*://*.google.*/*
 *://*.googleusercontent.*/*
 *://*.rfi.fr/*
 *://*.biologymad.com/*
@@ -118,7 +118,7 @@ http://*.epochtimes.com/*
 *://*.pornhub.com/*
 *://*.redtube.com/*
 *://*.phncdn.com/*
-*://**github.**/*
+*://*.github.*/*
 *://*.wikipedia.*/*
 *://*.wikimedia.*/*
 [regexp]
