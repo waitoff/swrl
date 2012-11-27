@@ -82,6 +82,7 @@ http://*.epochtimes.com/*
 *://youtu.be/*
 *://*.debian.*/*
 *://*.1e100.*/*
+*://*.googlesyndication.*/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
 *://*.bitbucket.org/*
