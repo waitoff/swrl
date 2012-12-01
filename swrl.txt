@@ -18,6 +18,7 @@
 *://*.canoncial.com/*
 *://*.sytes.net/*
 *://*.googleapis.*/*
+*://*.googletagservices.*/*
 *://*.google-analytics.*/*
 *://*.msfn.org/*
 *://*.openvpn.*/*
