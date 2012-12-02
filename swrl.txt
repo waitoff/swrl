@@ -36,6 +36,7 @@
 *://*.blogspot.*/*
 *://*.youtube.*/*
 *://*.ytimg.*/*
+*://api.ancientrocklab.com/*
 *://*.radio.com/*
 *://*.picleet.com/*
 *://*.immage.de/*
