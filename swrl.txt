@@ -78,6 +78,7 @@ http://*.epochtimes.com/*
 *://*.akamai.*/*
 *://*.abmr.*/*
 *://*.amazon.com/*
+*://*.amazonwebservices.*/*
 *://*.cloudfront.net/*
 *://*.amazonaws.com/*
 *://*.blogger.*/*
