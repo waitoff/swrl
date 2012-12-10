@@ -3,6 +3,7 @@
 *://*.skype.*/*
 *://*.microsoft.*/*
 *://*.pidgin.*/*
+*://*.paypal.*/*
 *://*.appspot.*/*
 *://*.stackoverflow.*/*
 *://*.adzerk.net/*
