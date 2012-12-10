@@ -2,6 +2,7 @@
 [wildcard]
 *://*.skype.*/*
 *://*.microsoft.*/*
+*://*.pidgin.*/*
 *://*.appspot.*/*
 *://*.stackoverflow.*/*
 *://*.adzerk.net/*
