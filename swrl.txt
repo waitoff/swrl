@@ -1,5 +1,7 @@
 #BEGIN
 [wildcard]
+*://*.skype.*/*
+*://*.microsoft.*/*
 *://*.appspot.*/*
 *://*.stackoverflow.*/*
 *://*.adzerk.net/*
