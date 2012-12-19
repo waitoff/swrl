@@ -1,6 +1,7 @@
 #BEGIN
 [wildcard]
 *://*.softlayer.*/*
+*://*.wordpress.*/*
 *://*.skype.*/*
 *://*.microsoft.*/*
 *://*.pidgin.*/*
