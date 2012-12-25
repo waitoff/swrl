@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://vimeo.*/*
 *://*.vimeo.*/*
 *://*.softlayer.*/*
 *://*.wordpress.*/*
