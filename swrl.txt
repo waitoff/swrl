@@ -1,6 +1,8 @@
 #BEGIN
 [wildcard]
 *://vimeo.*/*
+*://*.joyent.*/*
+*://*.zendesk.*/*
 *://*.vimeo.*/*
 *://*.softlayer.*/*
 *://*.wordpress.*/*
