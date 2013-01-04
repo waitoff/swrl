@@ -123,7 +123,7 @@ http://*.epochtimes.com/*
 *://*.opera.com/*
 *://thepiratebay.se/*
 *://*.instagram.com/*
-*://*.quickweb.co.nz/*
+*://*.quickweb.*/*
 *://*.wretch.cc/*
 *://*.yimg.com/*
 *://*.alexa.com/*
