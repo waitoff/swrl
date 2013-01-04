@@ -1,5 +1,7 @@
 #BEGIN
 [wildcard]
+*://*.feedburner.*/*
+*://*.namecheap.*/*
 *://*.pingdom.*/*
 *://vimeo.*/*
 *://*.joyent.*/*
