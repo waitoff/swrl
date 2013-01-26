@@ -1,6 +1,8 @@
 #BEGIN
 [wildcard]
 *://*.cloudflare.*/*
+*://*.sf.*/*
+*://*.sourceforge.*/*
 *://*.imdb.*/*
 *://*.feedburner.*/*
 *://*.namecheap.*/*
