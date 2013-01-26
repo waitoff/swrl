@@ -35,6 +35,7 @@
 *://*.canoncial.com/*
 *://*.sytes.net/*
 *://*.googleapis.*/*
+*://*.googlecode.*/*
 *://*.googletagservices.*/*
 *://*.google-analytics.*/*
 *://*.msfn.org/*
