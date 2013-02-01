@@ -97,6 +97,8 @@ http://*.epochtimes.com/*
 *://*.akamai.*/*
 *://*.abmr.*/*
 *://*.amazon.com/*
+*://*.ssl-images-amazon.*/*
+*://*.images-amazon.*/*
 *://*.python.*/*
 *://*.amazonwebservices.*/*
 *://*.cloudfront.net/*
