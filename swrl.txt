@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.frantech.*/*
 *://*.tumblr.*/*
 *://*.cloudflare.*/*
 *://*.sf.*/*
