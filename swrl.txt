@@ -7,6 +7,8 @@
 *://*.sourceforge.*/*
 *://*.imdb.*/*
 *://*.feedburner.*/*
+*://*.burst.*/*
+*://*.photonvps.*/*
 *://*.namecheap.*/*
 *://*.pingdom.*/*
 *://vimeo.*/*
