@@ -1,7 +1,7 @@
 #BEGIN
 [wildcard]
-*://*.crbug.*/*
-*://*.wkbug.*/*
+*://crbug.*/*
+*://wkbug.*/*
 *://*.ramhost.*/*
 *://*.redtubefiles.*/*
 *://*.frantech.*/*
@@ -117,7 +117,7 @@ http://*.epochtimes.com/*
 *://*.googlesyndication.*/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
-*://*.bitbucket.org/*
+*://bitbucket.org/*
 *://bit.ly/*
 *://t.co/*
 *://*.bbc.co.uk/*
@@ -151,7 +151,7 @@ http://*.epochtimes.com/*
 *://*.pornhub.com/*
 *://*.redtube.com/*
 *://*.phncdn.com/*
-*://*.github.*/*
+*://github.*/*
 *://*.wikipedia.*/*
 *://*.wikimedia.*/*
 [regexp]
