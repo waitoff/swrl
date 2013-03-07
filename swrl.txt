@@ -1,5 +1,8 @@
 #BEGIN
 [wildcard]
+*://*.crbug.*/*
+*://*.wkbug.*/*
+*://*.ramhost.*/*
 *://*.redtubefiles.*/*
 *://*.frantech.*/*
 *://*.tumblr.*/*
