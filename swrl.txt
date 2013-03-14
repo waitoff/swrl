@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.feedly.*/*
 *://*.vim.*/*
 *://crbug.*/*
 *://wkbug.*/*
