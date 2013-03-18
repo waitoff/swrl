@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.linux-kvm.*/*
 *://*.googlesource.*/*
 *://*.rhcloud.*/*
 *://*.ggpht.*/*
