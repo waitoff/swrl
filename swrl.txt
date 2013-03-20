@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.atlassian.*/*
 *://*.spice-space.*/*
 *://*.linux-kvm.*/*
 *://*.googlesource.*/*
@@ -64,7 +65,7 @@
 *://*.twitter.com/*
 *://*.dropbox.com/*
 *://*.facebook.com/*
-*://*.fbcdn.net/*
+*://*.fbcdn.*/*
 *://*.gstatic.*/*
 *://*.blogspot.*/*
 *://*.youtube.*/*
@@ -124,7 +125,6 @@ http://*.epochtimes.com/*
 *://*.googlesyndication.*/*
 *://*.git-scm.com/*
 *://*.redhat.com/*
-*://bitbucket.org/*
 *://bit.ly/*
 *://t.co/*
 *://*.bbc.co.uk/*
@@ -135,6 +135,7 @@ http://*.epochtimes.com/*
 *://*.ftchinese.com/*
 *://*.bwchinese.com/*
 *://bitbucket.org/*
+*://*.bitbucket.org/*
 *://*.quora.com/*
 *://progit.org/*
 *://*.wbur.org/*
@@ -159,6 +160,7 @@ http://*.epochtimes.com/*
 *://*.redtube.com/*
 *://*.phncdn.com/*
 *://github.*/*
+*://*.github.*/*
 *://*.wikipedia.*/*
 *://*.wikimedia.*/*
 [regexp]
