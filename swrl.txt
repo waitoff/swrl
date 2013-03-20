@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.registrar-servers.*/*
 *://*.atlassian.*/*
 *://*.spice-space.*/*
 *://*.linux-kvm.*/*
