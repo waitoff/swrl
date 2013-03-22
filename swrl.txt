@@ -1,5 +1,10 @@
 #BEGIN
 [wildcard]
+*://*.novell.*/*
+*://*.attachmategroup.*/*
+*://*.suse.*/*
+*://*.opensuse.*/*
+*://*.openshift.*/*
 *://*.registrar-servers.*/*
 *://*.atlassian.*/*
 *://*.spice-space.*/*
