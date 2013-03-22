@@ -1,5 +1,7 @@
 #BEGIN
 [wildcard]
+*://*.susestudio.*/*
+*://susestudio.*/*
 *://*.novell.*/*
 *://*.attachmategroup.*/*
 *://*.suse.*/*
