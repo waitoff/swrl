@@ -1,10 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: HqjlOexICP9UCtGGNKzvug
+! Checksum: bE+lwX3yUXJ7JINbuj9Iyw
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Wed, 27 Mar 2013 11:13:53 +0800
+! Last Modified: Wed, 27 Mar 2013 11:31:52 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||twimg.com
 ||susestudio.com
 ||novell.com
 ||attachmategroup.com
@@ -74,6 +75,7 @@
 ||dropbox.com
 ||facebook.com
 ||fbcdn.com
+||fbcdn.net
 ||gstatic.com
 ||blogspot.com
 ||youtube.com
