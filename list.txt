@@ -1,3 +1,10 @@
+[AutoProxy 1.2.9]
+! Checksum: HqjlOexICP9UCtGGNKzvug
+! Checksum: 
+! Expires: 1h
+! Last Modified: Wed, 27 Mar 2013 11:13:53 +0800
+!     ----http://www.netroby.com/
+!--------------------Num----------------------------
 ||susestudio.com
 ||novell.com
 ||attachmategroup.com
