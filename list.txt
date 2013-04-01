@@ -1,10 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: zr9RPSHojFON+FG3Gd1XNw
+! Checksum: SUSgi5xOXDiWw/ZCl+GW5g
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 28 Mar 2013 19:49:52 +0800
+! Last Modified: Mon, 01 Apr 2013 08:59:24 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||mtgox.com
 ||stackexchange.com
 ||superuser.com
 ||howtoforge.com
