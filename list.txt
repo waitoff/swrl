@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: GLW6RSs/H6XVO4DXYN+yHg
+! Checksum: H6HoBFzBMagTCnOei2s3qg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Wed, 03 Apr 2013 14:02:54 +0800
+! Last Modified: Wed, 03 Apr 2013 21:29:30 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||aurumxchange.com
@@ -38,6 +38,7 @@
 ||cloudflare.com
 ||sf.net
 ||sourceforge.com
+||sourceforge.net
 ||imdb.com
 ||feedburner.com
 ||burst.com
