@@ -1,10 +1,13 @@
 [AutoProxy 1.2.9]
-! Checksum: SUSgi5xOXDiWw/ZCl+GW5g
+! Checksum: GLW6RSs/H6XVO4DXYN+yHg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Mon, 01 Apr 2013 08:59:24 +0800
+! Last Modified: Wed, 03 Apr 2013 14:02:54 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||libertyreserve.com
+||centregold.com
+||cosmicpay.com
 ||mtgox.com
 ||stackexchange.com
 ||superuser.com
