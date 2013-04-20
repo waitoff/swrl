@@ -1,10 +1,12 @@
 [AutoProxy 1.2.9]
-! Checksum: CDr8Wtfgi5se5+wOiFZ51w
+! Checksum: 0bmxToR5VAEGHYwY0Q+HqA
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Fri, 19 Apr 2013 07:03:14 +0800
+! Last Modified: Sat, 20 Apr 2013 11:03:01 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||planforcloud.com
+||rightscale.com
 ||nextmedia.com
 ||readthedocs.org
 ||zend.com
