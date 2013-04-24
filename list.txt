@@ -1,10 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: +rxU3HsLpSP0ZbKw+9c5Zw
+! Checksum: eACFQxos60SfiN98wK6n6g
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 23 Apr 2013 14:02:17 +0800
+! Last Modified: Wed, 24 Apr 2013 14:19:31 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||bitminter.com
 ||blockchain.info
 ||google.org
 ||planforcloud.com
