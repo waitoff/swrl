@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: vJHRVA/+GeWcd6VS7PHWSg
+! Checksum: wzV2GDqcxzmpblEpb1EFig
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Sun, 28 Apr 2013 07:06:21 +0800
+! Last Modified: Sun, 28 Apr 2013 18:17:31 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||btc-e.com
@@ -54,6 +54,7 @@
 ||imdb.com
 ||feedburner.com
 ||burst.com
+||burst.net
 ||photonvps.com
 ||namecheap.com
 ||pingdom.com
