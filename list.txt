@@ -1,10 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: aC7kfAQy2UnE+J26KI4+CA
+! Checksum: EA5+3KsAvLAB/xV9iEJc8w
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 07 May 2013 10:12:15 +0800
+! Last Modified: Thu, 09 May 2013 12:50:57 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||rtbtc.net
 ||appcelerator.com
 ||appcelerator.org
 ||btc-e.com
