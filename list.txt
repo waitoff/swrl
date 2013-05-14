@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: EA5+3KsAvLAB/xV9iEJc8w
+! Checksum: Du2akP9bCGIiGf1By43OEA
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 09 May 2013 12:50:57 +0800
+! Last Modified: Tue, 14 May 2013 15:18:29 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||rtbtc.net
@@ -191,4 +191,5 @@
 ||redtube.com
 ||phncdn.com
 ||github.com
+||github.io
 ||wikipedia.com
