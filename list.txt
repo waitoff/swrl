@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: 8nwfItUjhrpyHvq5nwQ8Rg
+! Checksum: qKjuy0O/s5Di5hUi1T6Tzg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Wed, 15 May 2013 02:23:08 +0800
+! Last Modified: Wed, 15 May 2013 02:23:12 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||getfoxyproxy.org
