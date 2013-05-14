@@ -1,10 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: a3IM+GpIZgGE3nLQFtzSvw
+! Checksum: 8nwfItUjhrpyHvq5nwQ8Rg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 14 May 2013 20:49:50 +0800
+! Last Modified: Wed, 15 May 2013 02:23:08 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||getfoxyproxy.org
 ||php.net
 ||rtbtc.net
 ||appcelerator.com
