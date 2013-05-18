@@ -1,11 +1,10 @@
 [AutoProxy 1.2.9]
-! Checksum: W7Iwdm5OBkoqQI07dgAcjQ
+! Checksum: uYQ4/Oxwzcu/1xs96B05bA
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Sat, 18 May 2013 05:01:50 +0800
+! Last Modified: Sat, 18 May 2013 15:13:28 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
-||bitvisitor.com
 ||boobstagram.com
 ||xvideos.com
 ||googleadservices.com
