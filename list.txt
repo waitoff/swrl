@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: VEyflr4BCVDJFGd7m7jMaQ
+! Checksum: bNWNKNWWV+WPJQTCS9kAtg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 21 May 2013 08:34:16 +0800
+! Last Modified: Mon, 03 Jun 2013 06:26:55 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||yahoo.com
@@ -202,3 +202,4 @@
 ||github.com
 ||github.io
 ||wikipedia.com
+||wikipedia.org
