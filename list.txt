@@ -70,6 +70,8 @@
 ||photonvps.com
 ||namecheap.com
 ||pingdom.com
+||pinterest.com
+||pinimg.com
 ||joyent.com
 ||zendesk.com
 ||vimeo.com
