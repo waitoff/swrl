@@ -104,6 +104,7 @@
 ||google-analytics.com
 ||msfn.org
 ||openvpn.com
+||vpngate.net
 ||sns.ly
 ||lastpass.com
 ||launchpadlibrarian.net
