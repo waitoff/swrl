@@ -1,12 +1,11 @@
 [AutoProxy 1.2.9]
-! Checksum: T6L4Tf0QRowPrbJ3cxk5OQ
+! Checksum: 1DQEJQx/4woEqxZ29s60Sw
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Fri, 21 Jun 2013 05:27:13 +0800
+! Last Modified: Fri, 09 Aug 2013 10:03:06 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
-||netroby.com
-||mlgao.com
+||lesscss.org
 ||yahoo.com
 ||xmarks.com
 ||botanwang.com
