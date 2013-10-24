@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: aO7ldQNCiPLBV0Eumphq4g
+! Checksum: 6Y4xyjsvsy2pQS80JSd9Mg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 24 Oct 2013 08:25:52 +0800
+! Last Modified: Thu, 24 Oct 2013 19:07:47 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||marc.info
@@ -77,6 +77,7 @@
 ||pinimg.com
 ||joyent.com
 ||zendesk.com
+||jetbrains.com
 ||vimeo.com
 ||softlayer.com
 ||wordpress.com
