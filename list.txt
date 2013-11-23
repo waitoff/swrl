@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: h4r7YwkY6hDkeBIK7DWj1A
+! Checksum: sEJrv93mAOpQeblGSl1/Tg
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Sun, 27 Oct 2013 10:47:39 +0800
+! Last Modified: Sun, 24 Nov 2013 07:47:32 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||marc.info
@@ -208,6 +208,13 @@
 ||pornhub.com
 ||redtube.com
 ||phncdn.com
+||youporn.com
+||porn.com
+||youjizz.com
+||tube8.com
+||perfectgirls.net
+||xnxx.com
+||tanksporn.com
 ||github.com
 ||github.io
 ||wikipedia.com
