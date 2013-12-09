@@ -1,10 +1,12 @@
 [AutoProxy 1.2.9]
-! Checksum: lPUNFSc9EP4BoMqfE5ZsPA
+! Checksum: wCdeMnS0Vn7thaO/WaLP1A
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 05 Dec 2013 08:25:37 +0800
+! Last Modified: Mon, 09 Dec 2013 09:16:49 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
+||apache.org
+||eclipse.org
 ||serverfault.com
 ||sstatic.net
 ||marc.info
