@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: sGrnwMxmXg5ltxyvb4HSLQ
+! Checksum: 3MbmgiA2nriO2jyE3I+hJA
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 26 Dec 2013 01:51:43 -0500
+! Last Modified: Mon, 30 Dec 2013 02:48:35 -0500
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||slideshare.net
@@ -201,7 +201,7 @@
 ||evernote.com
 ||thefacebook.com
 ||opera.com
-||thepiratebay.se
+||thepiratebay.*
 ||instagram.com
 ||quickweb.com.nz
 ||wretch.cc
