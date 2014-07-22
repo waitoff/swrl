@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: 2nS8DVLCAiTYwSuQ7KYnWw
+! Checksum: dodXq3hsnXQ0YLUi0jcpjA
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 22 Jul 2014 08:25:55 -0400
+! Last Modified: Tue, 22 Jul 2014 08:27:41 -0400
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -120,6 +120,7 @@
 ||codecademy.com
 ||coursera.org
 ||googletagservices.com
+||googletagmanager.com
 ||google-analytics.com
 ||msfn.org
 ||openvpn.com
