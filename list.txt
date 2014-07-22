@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: rRlQO/x5X+W2Tqr1HEVGdw
+! Checksum: 2nS8DVLCAiTYwSuQ7KYnWw
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Thu, 12 Jun 2014 07:07:47 -0400
+! Last Modified: Tue, 22 Jul 2014 08:25:55 -0400
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -136,6 +136,8 @@
 ||fbcdn.net
 ||gstatic.com
 ||blogspot.com
+||blogspot.sg
+||blogblog.com
 ||youtube.com
 ||ytimg.com
 ||api.ancientrocklab.com
