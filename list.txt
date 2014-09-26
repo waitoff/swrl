@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: dodXq3hsnXQ0YLUi0jcpjA
+! Checksum: AJuYHzRCnT6NX0OKLn7k7Q
 ! Checksum: 
 ! Expires: 1h
-! Last Modified: Tue, 22 Jul 2014 08:27:41 -0400
+! Last Modified: Fri, 26 Sep 2014 05:07:46 -0400
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -241,3 +241,4 @@
 ||incapsula.com
 ||trouter.io
 ||youtube-nocookie.com
+||golang.org
