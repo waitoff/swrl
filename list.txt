@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: qCwVucn0sG1cBVc+ZsE/Dg
+! Checksum: p5d3C3MStStXz8tl0S0VXA
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Fri, 14 Nov 2014 09:08:24 +0000
+! Last Modified: Thu, 20 Nov 2014 05:20:28 +0000
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -251,3 +251,6 @@
 ||leaseweb.us
 ||leaseweb.de
 ||duckduckgo.com
+||mozilla.org
+||mozilla.net
+||optimizely.com
