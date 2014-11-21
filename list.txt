@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: p5d3C3MStStXz8tl0S0VXA
+! Checksum: dLRxBMCL3mVimuxiUDPMbg
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Thu, 20 Nov 2014 05:20:28 +0000
+! Last Modified: Fri, 21 Nov 2014 02:25:18 +0000
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -254,3 +254,5 @@
 ||mozilla.org
 ||mozilla.net
 ||optimizely.com
+||docker.io
+||docker.com
