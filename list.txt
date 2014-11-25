@@ -261,3 +261,4 @@
 ||scala-sbt.org
 ||scalatest.org
 ||typekit.net
+||herokuapp.com
