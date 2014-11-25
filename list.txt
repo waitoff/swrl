@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: dLRxBMCL3mVimuxiUDPMbg
+! Checksum: xrB+UkA4gYOWYbIMWhglpw
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Fri, 21 Nov 2014 02:25:18 +0000
+! Last Modified: Tue, 25 Nov 2014 07:00:55 +0000
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -256,3 +256,7 @@
 ||optimizely.com
 ||docker.io
 ||docker.com
+||playframework.com
+||scala-lang.org
+||scala-sbt.org
+||scalatest.org
