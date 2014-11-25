@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: xrB+UkA4gYOWYbIMWhglpw
+! Checksum: 7T2928JiyhXwU8O/JKL3gA
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Tue, 25 Nov 2014 07:00:55 +0000
+! Last Modified: Tue, 25 Nov 2014 12:44:11 +0000
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -260,3 +260,4 @@
 ||scala-lang.org
 ||scala-sbt.org
 ||scalatest.org
+||typekit.net
