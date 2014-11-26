@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: iKFrvEfcpLUYTC9q1KdvDA
+! Checksum: ZPNAENhIyEbgrr4uq/Xgbw
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Wed, 26 Nov 2014 00:33:56 +0000
+! Last Modified: Wed, 26 Nov 2014 23:44:52 +0000
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -124,6 +124,7 @@
 ||google-analytics.com
 ||msfn.org
 ||openvpn.com
+||openvpn.net
 ||vpngate.net
 ||sns.ly
 ||lastpass.com
