@@ -1,8 +1,8 @@
 [AutoProxy 1.2.9]
-! Checksum: ZPNAENhIyEbgrr4uq/Xgbw
+! Checksum: s7YtsQvn78ovN6d0jH1QwA
 ! Checksum:
 ! Expires: 1h
-! Last Modified: Wed, 26 Nov 2014 23:44:52 +0000
+! Last Modified: Mon, 01 Dec 2014 15:11:41 +0800
 !     ----http://www.netroby.com/
 !--------------------Num----------------------------
 ||netroby.com
@@ -264,3 +264,6 @@
 ||typekit.net
 ||herokuapp.com
 ||fb.me
+||edgefonts.net
+||laravel.com
+
