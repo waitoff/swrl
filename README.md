@@ -1,10 +1,10 @@
-# Switch Rule list for Chrome Proxy Switchy 
+# Switch Rule list for Chrome Proxy Switchy
 
 
 * you may set up Chrome Proxy Switchy use following online rule list:
 
 ```
-http://s.netroby.com/swrl/ap.txt
+https://s.netroby.com/swrl/ap.txt
 ```
 
 * you could run cleanswrl.bat and then restart chrome browser to clean and force load the online switch rules list. (only working on windows system)
@@ -17,4 +17,3 @@ and you could also delete SwitchyAuto.pac
 
 
 update some urls
-
