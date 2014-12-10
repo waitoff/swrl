@@ -1,5 +1,5 @@
 [AutoProxy 1.4.0]
-! Checksum: 4f1tzeinv6u0O32L5swDGg
+! Checksum: 9NrOX5HPGmW09CBf7+kMZw
 ||1984bbs.org
 ||1e100.net
 ||abmr.com
@@ -188,6 +188,7 @@
 ||quora.com
 ||radio.com
 ||ramhost.com
+||reddit.com
 ||readthedocs.org
 ||redhat.com
 ||redtube.com
