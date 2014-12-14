@@ -1,5 +1,5 @@
 [AutoProxy 1.4.0]
-! Checksum: 9NrOX5HPGmW09CBf7+kMZw
+! Checksum: AGdx243Xb2UT3cqmxAM1/A
 ||1984bbs.org
 ||1e100.net
 ||abmr.com
@@ -40,6 +40,7 @@
 ||bullogger.com
 ||burst.com
 ||burst.net
+||cdn13.com
 ||c9.io
 ||canoncial.com
 ||centregold.com
@@ -114,6 +115,7 @@
 ||incapsula.com
 ||instagram.com
 ||internetfreedom.org
+||japan-whores.com
 ||jetbrains.com
 ||jkforum.net
 ||joyent.com
