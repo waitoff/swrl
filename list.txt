@@ -1,5 +1,5 @@
 [AutoProxy 1.4.0]
-! Checksum: AGdx243Xb2UT3cqmxAM1/A
+! Checksum: XoEmXcus1sVK0E2PRA1npQ
 ||1984bbs.org
 ||1e100.net
 ||abmr.com
@@ -40,6 +40,7 @@
 ||bullogger.com
 ||burst.com
 ||burst.net
+||cdn13.com
 ||cdn13.com
 ||c9.io
 ||canoncial.com
