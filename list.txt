@@ -1,5 +1,5 @@
 [AutoProxy 1.4.0]
-! Checksum: XoEmXcus1sVK0E2PRA1npQ
+! Checksum: iUtV8gRIJ45jb16+RVz7gg
 ||1984bbs.org
 ||1e100.net
 ||abmr.com
@@ -268,3 +268,4 @@
 ||ytimg.com
 ||zend.com
 ||zendesk.com
+||duolingo.com
