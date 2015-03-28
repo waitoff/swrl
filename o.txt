@@ -90,6 +90,7 @@
 .git-scm.com
 .godaddy.com
 .golang.org
+.rust-lang.org
 .gomuse.com
 .goo.gl
 .googleadservices.com
