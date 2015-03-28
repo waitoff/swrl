@@ -87,6 +87,7 @@
 .github.com
 .githubapp.com
 .github.io
+.githubusercontent.com  
 .git-scm.com
 .godaddy.com
 .golang.org
