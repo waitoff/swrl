@@ -68,6 +68,7 @@
 .edgefonts.com
 .edgefonts.net
 .epochtimes.com
+.erlang.org
 .evernote.com
 .facebook.com
 .fastly.net
@@ -87,7 +88,7 @@
 .github.com
 .githubapp.com
 .github.io
-.githubusercontent.com  
+.githubusercontent.com
 .git-scm.com
 .godaddy.com
 .golang.org
