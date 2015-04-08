@@ -69,6 +69,7 @@
 .edgefonts.net
 .epochtimes.com
 .erlang.org
+.wikicdn.com
 .evernote.com
 .facebook.com
 .fastly.net
