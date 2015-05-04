@@ -102,6 +102,7 @@
 .googleapis.com
 .googlecode.com
 .google.com
+.google.com.sg
 .google.com
 .google.org
 .googlesource.com
