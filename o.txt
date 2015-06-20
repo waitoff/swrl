@@ -103,6 +103,7 @@
 .googleapis.com
 .googlecode.com
 .google.com
+.google.com.hk
 .google.com.sg
 .google.co.jp
 .google.com.jp
