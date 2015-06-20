@@ -104,6 +104,8 @@
 .googlecode.com
 .google.com
 .google.com.sg
+.google.co.jp
+.google.com.jp
 .google.com
 .google.org
 .googlesource.com
