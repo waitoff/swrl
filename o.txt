@@ -31,6 +31,7 @@
 .blogblog.com
 .blogger.com
 .blogspot.com
+.blogspot.co.uk
 .blogspot.sg
 .boobstagram.com
 .botanwang.com
@@ -103,6 +104,7 @@
 .googleapis.com
 .googlecode.com
 .google.com
+.google.co.uk
 .google.nl
 .google.de
 .blogspot.de
