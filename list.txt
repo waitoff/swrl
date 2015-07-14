@@ -1,5 +1,5 @@
 [AutoProxy 1.4.0]
-! Checksum: qrqhhlN9c19BkD+VYJLNtQ
+! Checksum: NuwLzh8R4OGPQbnolr6U/A
 ||1984bbs.org
 ||1e100.net
 ||abmr.com
@@ -97,6 +97,7 @@
 ||googleapis.com
 ||googlecode.com
 ||google.com
+||google.de
 ||google.org
 ||googlesource.com
 ||googlesyndication.com
