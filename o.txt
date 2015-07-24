@@ -108,6 +108,7 @@
 .google.nl
 .google.de
 .blogspot.de
+.blogspot.in
 .blogspot.nl
 .google.com.tw
 .google.com.hk
