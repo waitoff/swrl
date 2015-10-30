@@ -11,11 +11,13 @@ https://s.netroby.com/swrl/ap.txt
 
 and you could also delete SwitchyAuto.pac
 
+
 ## Donate me please
 
-![Scan QRCode donate me via Alipay](https://www.netroby.com/images/alipayme.jpg)
+![Scan QRCode donate me via Alipay](https://www.netroby.com/assets/images/alipayme.jpg)
 
 **Scan QRCode donate me via Alipay**
+
 
 ## Change logs
 
