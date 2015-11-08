@@ -244,6 +244,7 @@
 .suse.com
 .susestudio.com
 .sytes.net
+.syntevo.com
 .t66y.com
 .tanksporn.com
 .t.co
