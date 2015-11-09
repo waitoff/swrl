@@ -270,6 +270,7 @@
 .voachinese.com
 .vpngate.net
 .wbur.org
+.wikispaces.com
 .wikimedia.org
 .wikipedia.com
 .wikipedia.org
