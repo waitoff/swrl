@@ -54,6 +54,7 @@
 .codehaus.org
 .cosmicpay.com
 .coursera.org
+.clojure.org
 .crbug.com
 .debian.org
 .disqus.com
