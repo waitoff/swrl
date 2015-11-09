@@ -13,6 +13,7 @@
 .amazonwebservices.com
 .android.com
 .angularjs.org
+.askubuntu.com
 .apache.org
 .api.ancientrocklab.com
 .appcelerator.com
