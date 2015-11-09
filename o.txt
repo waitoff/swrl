@@ -133,6 +133,8 @@
 .images-amazon.com
 .imdb.com
 .immage.de
+.irccloud-cdn.com
+.irccloud.com
 .incapsula.com
 .instagram.com
 .internetfreedom.org
@@ -210,6 +212,7 @@
 .python.org
 .quickweb.com.nz
 .quora.com
+.racket-lang.org
 .radio.com
 .ramhost.com
 .readthedocs.org
