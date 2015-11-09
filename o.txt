@@ -22,6 +22,7 @@
 .attachmategroup.com
 .aurumxchange.com
 .bbc.co.uk
+.brew.sh
 .biologymad.com
 .bitbucket.org
 .bitcoin.cz
