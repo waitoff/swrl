@@ -225,6 +225,7 @@
 .reuters.com
 .rfi.fr
 .rhcloud.com
+.rncdn3.com
 .rightscale.com
 .rmdown.com
 .rtbtc.net
