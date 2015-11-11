@@ -283,6 +283,7 @@
 .wordpress.com
 .wretch.cc
 .wsimg.com
+.wxwidgets.org
 .wsj.com
 .xmarks.com
 .xnxx.com
