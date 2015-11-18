@@ -229,6 +229,7 @@
 .rightscale.com
 .rmdown.com
 .rtbtc.net
+.saltstack.com
 .scala-lang.org
 .scala-sbt.org
 .scalatest.org
