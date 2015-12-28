@@ -10,6 +10,7 @@
 .allbuttonspressed.com
 .amazonaws.com
 .amazon.com
+.awsstatic.com
 .amazonwebservices.com
 .android.com
 .angularjs.org
