@@ -111,9 +111,11 @@
 .google.co.uk
 .google.nl
 .google.de
+.google.fr
 .blogspot.de
 .blogspot.in
 .blogspot.nl
+.blogspot.fr
 .google.com.tw
 .google.com.hk
 .google.com.sg
