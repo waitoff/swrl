@@ -1,5 +1,6 @@
 # Switch Rule list for Chrome Proxy Switchy
 
+Update 2016-08-03
 
 * you may set up Chrome Proxy Switchy use following online rule list:
 
