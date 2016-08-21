@@ -109,6 +109,7 @@
 .googleapis.com
 .googlecode.com
 .google.com
+.google.com.au
 .google.co.uk
 .google.nl
 .google.de
