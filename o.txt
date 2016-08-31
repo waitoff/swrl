@@ -111,6 +111,7 @@
 .google.com
 .google.com.au
 .google.co.uk
+.google.co.in
 .google.nl
 .google.de
 .google.fr
