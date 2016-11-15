@@ -259,6 +259,8 @@
 .susestudio.com
 .sytes.net
 .syntevo.com
+.twitch.tv
+.ttvnw.net
 .t66y.com
 .tanksporn.com
 .t.co
