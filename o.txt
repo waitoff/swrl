@@ -264,6 +264,7 @@
 .t66y.com
 .tanksporn.com
 .t.co
+.tnaflix.com
 .thefacebook.com
 .thepiratebay.*
 .tinypic.com
