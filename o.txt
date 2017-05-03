@@ -111,6 +111,7 @@
 .googlecode.com
 .google.com
 .google.com.au
+.google.com.ar
 .google.co.uk
 .google.co.in
 .google.nl
