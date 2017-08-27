@@ -181,6 +181,7 @@
 .mtgox.com
 .multiupload.com
 .mysql.com
+.nicovideo.jp
 .namecheap.com
 .netroby.com
 .nextmedia.com
