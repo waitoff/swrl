@@ -184,6 +184,7 @@
 .nicovideo.jp
 .namecheap.com
 .netroby.com
+.nimg.jp
 .nextmedia.com
 .nltk.org
 .note.acmu.org
