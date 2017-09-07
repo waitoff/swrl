@@ -1,5 +1,11 @@
 # Switch Rule list for Chrome Proxy Switchy
 
+Update 2017-09-07
+
+If you want to use pac file, just go to 
+
+https://oneway.netroby.com/pac.js
+
 Update 2016-08-03
 
 * you may set up Chrome Proxy Switchy use following online rule list:
