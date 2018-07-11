@@ -175,6 +175,7 @@
 .mirrorbooks.com
 .mixero.com
 .mlgao.com
+.medium.com
 .mozilla.net
 .mozilla.org
 .msecnd.net
