@@ -175,6 +175,7 @@
 .mirrorbooks.com
 .mixero.com
 .mlgao.com
+.manjaro.org
 .medium.com
 .mozilla.net
 .mozilla.org
@@ -284,6 +285,7 @@
 .typekit.com
 .typekit.net
 .typepad.com
+.ubuntu.com
 .vimeo.com
 .vim.org
 .voachinese.com
