@@ -204,6 +204,7 @@
 .optimizely.com
 .outlook.com
 .ow.ly
+.premii.com
 .paypal.com
 .peacehall.com
 .perfectgirls.net
