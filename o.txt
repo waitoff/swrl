@@ -79,6 +79,7 @@
 .erlang.org
 .wikicdn.com
 .evernote.com
+.firebaseio.com
 .facebook.com
 .fastly.net
 .fbcdn.com
