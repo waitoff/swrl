@@ -292,6 +292,7 @@
 .vim.org
 .voachinese.com
 .vpngate.net
+.v2ray.com
 .wbur.org
 .wikispaces.com
 .wikimedia.org
