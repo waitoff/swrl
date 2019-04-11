@@ -1,5 +1,7 @@
 #BEGIN
 [wildcard]
+*://*.btsay.org/*
+*://*.rutracker.*/*
 *://*.susestudio.*/*
 *://susestudio.*/*
 *://*.novell.*/*
