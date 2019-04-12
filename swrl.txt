@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.linkedin.com/*
 *://*.netlify.com/*
 *://*.btsay.org/*
 *://*.rutracker.*/*
