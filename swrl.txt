@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.nxtinside.org/*
 *://*.thenxtwiki.org/*
 *://*.linkedin.com/*
 *://*.netlify.com/*
