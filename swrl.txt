@@ -1,5 +1,6 @@
 #BEGIN
 [wildcard]
+*://*.nxt.org/*
 *://*.thenxtwiki.org/*
 *://*.nxtcrypto.org/*
 *://*.pornolab.net/*
